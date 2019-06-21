@@ -6,6 +6,9 @@
 * [Menu.css](./CS/WebSite/Menu.css)
 <!-- default file list end -->
 # How to implement ASPxMenu with round item's borders
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2982)**
+<!-- run online end -->
 
 
 <p>This example shows how to implement a menu with round item corners. Note that the menu has a 'custom' css-postfix, and its styles are placed in the 'Menu.css' css-file. Styles that implement round corners are at the bottom of the file.</p>
